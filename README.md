@@ -58,7 +58,7 @@ Host your own instance of the api on railway using the button below.
 
 ### Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/warlordsnet/zia-api)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/devhimesh/gogoapi/)
 
 ### Vercel
 
