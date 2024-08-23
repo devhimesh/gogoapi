@@ -15,7 +15,7 @@
         "api",
         "gogoanime"
     ],
-    "author": "https://github.com/riimuru",
+    "author": "https://github.com/devhimesh/",
     "license": "ISC",
     "dependencies": {
         "axios": "^0.27.2",
